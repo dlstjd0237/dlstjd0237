@@ -4,4 +4,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstjd0237)](https://solved.ac/dlstjd0237/)
 
-쌉가능 file:///C:/Users/ggmuser/Downloads/unity.svg
+쌉가능
