@@ -4,6 +4,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstjd0237)](https://solved.ac/dlstjd0237/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/dlstjd0237=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/dlstjd0237DenverCoder1)](https://git.io/streak-stats)
 Can do!
 
