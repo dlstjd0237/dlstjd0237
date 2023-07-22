@@ -1,6 +1,6 @@
 <div align="center">
- <span style="font-size:300%">무엇이든 도전해 보는 개발자가 있다면<br>그것은 
- 백</span><span style="font-size:500%">인성</span>  <span style="font-size:300%">입니다!</span><br>
+ <span style="font-size:300%">무엇이든 도전해 보는 개발자 지망생이 있다면</span><br>그것은 
+ 백<span style="font-size:500%">인성</span>  <span style="font-size:300%">입니다!</span><br>
 
 #      
 
