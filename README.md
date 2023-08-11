@@ -4,7 +4,7 @@
 
 #      
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlstjd0237&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlstjd0237&show_icons=true&theme=cobalt&include_all_commits=true)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstjd0237)](https://solved.ac/dlstjd0237/)
