@@ -1,11 +1,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!&fontSize=90" />
  
- <span style="font-size:320%">무엇이든 도전해 보는 개발자가 있다면</span><br>그것은 
- 백<span style="font-size:500%">인성</span>  <span style="font-size:300%">입니다!</span><br>
+# 제가 누구냐고요!?
+#### 저는 경기게임마이스터고등학교에 재학중인 1학년 백인성 입니다.
 
-# 📚 STACKS
+# 📚 무엇을 할줄 아냐고요!?
 <p> <img src="https://img.shields.io/badge/Unity-gray.svg?style=flat&logo=Unity">  <img src="https://img.shields.io/badge/Csharp-gray.svg?style=flat&logo=C#"></p>
+
+#### 위에 있는 것들 외에도 못하는 것 빼고는 다 할 수 있답니다!
 
 #      
 
