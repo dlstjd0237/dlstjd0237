@@ -15,7 +15,7 @@
 
 #      
 ### 저의 백준 티어입니다.
-### 저는 실버입니다. 그리고 백인성이지요.
+### 저는 실버입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstjd0237)](https://solved.ac/dlstjd0237/)
 #      
