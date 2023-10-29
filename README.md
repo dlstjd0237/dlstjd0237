@@ -19,8 +19,11 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstjd0237)](https://solved.ac/dlstjd0237/)
 #      
-## 제가 계속 노력할수 있는 원동력 입니다.
 [![GitHub Streak](https://streak-stats.demolab.com?user=dlstjd0237&theme=dracula&border_radius=5&locale=ko)](https://git.io/streak-stats)
 
+# 🏆 Awards
+
+### 2023 1학기 개인프로젝트 3등
+### 2023 1학기 협력부문 표창장
 
 </div>
