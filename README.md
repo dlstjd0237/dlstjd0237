@@ -20,6 +20,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstjd0237)](https://solved.ac/dlstjd0237/)
 #      
 [![GitHub Streak](https://streak-stats.demolab.com?user=dlstjd0237&theme=dracula&border_radius=5&locale=ko)](https://git.io/streak-stats)
+#
+<a href="https://opgc.me/#/users/dlstjd0237" target="_blank"><img src="https://api.opgc.me/githubs/users/dlstjd0237/tag/?theme=basic" /></a>
 
 # 🏆 Awards
 
