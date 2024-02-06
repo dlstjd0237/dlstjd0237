@@ -9,8 +9,7 @@
 
 #### 위에 있는 것들 외에도 못하는 것 빼고는 다 할 수 있답니다!
 
-#      
-
+#    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlstjd0237&show_icons=true&theme=cobalt&include_all_commits=true)
 
 #     
