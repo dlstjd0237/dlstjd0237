@@ -1,4 +1,4 @@
-<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!&fontSize=90" />
  
 # 제가 누구냐고요!?
@@ -40,4 +40,4 @@
 ### 아래한글 (C)
 ### 한셀 (C)
 ### 인터넷 (C)
-</div>
+
