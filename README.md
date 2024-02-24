@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!&fontSize=90" />
  
-# 제가 누구냐고요!?
+# About dlstjd0237
 #### 저는 경기게임마이스터고등학교에 재학중인 
 #### 1학년 국가권력급 개발자 지망생 백인성 입니다.
 
