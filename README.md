@@ -5,6 +5,8 @@
 #### 저는 경기게임마이스터고등학교에 재학중인 
 #### 1학년 국가권력급 개발자 지망생 백인성 입니다.
 
+- - -
+
 # 📚 무엇을 할줄 아냐고요!?
 <p> <img src="https://img.shields.io/badge/Unity-gray.svg?style=flat&logo=Unity">  <img src="https://img.shields.io/badge/Csharp-gray.svg?style=flat&logo=C#"></p>
 
