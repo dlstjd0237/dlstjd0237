@@ -2,10 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!&fontSize=90" />
  
 # About dlstjd0237
-#### 저는 경기게임마이스터고등학교에 재학중인 
-#### 1학년 국가권력급 개발자 지망생 백인성 입니다.
-#### Unity를 활용해 클라이언트 개발을 중점적으로 하고 있습니다.
-- - -
+* 저는 경기게임마이스터고등학교에 재학중인 
+* 2학년 국가권력급 개발자 지망생 백인성 입니다.
+* Unity를 활용해 클라이언트 개발을 중점적으로 하고 있습니다.
+
+# Unity
+* 개발한 게임의 7할 정도가 PC 플랫폼임.
+* 가장 자신 있는 역할은 UI 개발이며 UIToolkit을 주로 활용 해왔음.
+
+# 취미 및 특기
+* 전에는 툴 제작에 관심을 가졌었지만 현재는 서버 쪽에 관심을 가지고 있다.
+* 이전에 만들어본 또는 구현해 본 경험이 있다면 개발 속도를 빠르게 올릴 수 있음.
+* 최적화 관련 책을 자주봄.
 
 # 📚 무엇을 할줄 아냐고요!?
 <p> <img src="https://img.shields.io/badge/Unity-gray.svg?style=flat&logo=Unity">  <img src="https://img.shields.io/badge/Csharp-gray.svg?style=flat&logo=C#"></p>
