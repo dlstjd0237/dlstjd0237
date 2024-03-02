@@ -13,7 +13,8 @@
 # 취미 및 특기
 * 전에는 툴 제작에 관심을 가졌었지만 현재는 서버 쪽에 관심을 가지고 있다.
 * 이전에 만들어본 또는 구현해 본 경험이 있다면 개발 속도를 빠르게 올릴 수 있음.
-* 최적화 관련 책을 자주봄.
+* 최적화 관련 책 또는 자료 자주 봄.
+  * 가장 최근의 본 책은 [최대 성능을 위한 유니티 5 게임 프로그래밍 최적화] 이다.
 
 # 📚 무엇을 할줄 아냐고요!?
 <p> <img src="https://img.shields.io/badge/Unity-gray.svg?style=flat&logo=Unity">  <img src="https://img.shields.io/badge/Csharp-gray.svg?style=flat&logo=C#"></p>
