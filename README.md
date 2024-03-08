@@ -27,14 +27,12 @@
 ### 저는 실버입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstjd0237)](https://solved.ac/dlstjd0237/)
-# 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dlstjd0237&theme=dracula)](https://github.com/dlstjd0237/github-readme-activity-graph)
+
 #
 [![GitHub Streak](https://streak-stats.demolab.com?user=dlstjd0237&theme=dracula&border_radius=5&locale=ko)](https://git.io/streak-stats)
 #    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlstjd0237&show_icons=true&theme=cobalt&include_all_commits=true)
 
-<a href="https://opgc.me/#/users/dlstjd0237" target="_blank"><img src="https://api.opgc.me/githubs/users/dlstjd0237/tag/?theme=basic" /></a>
 
 # 🏆 Awards
 
