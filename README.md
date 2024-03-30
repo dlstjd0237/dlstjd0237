@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!&fontSize=90" />
  
 # About dlstjd0237
-* 저는 경기게임마이스터고등학교에 재학중인 
+* 경기게임마이스터고등학교에 재학중인 이며 동아리 '탈주닌자'의 기장입니다
 * 2학년 국가권력급 개발자 지망생 백인성 입니다.
 * Unity를 활용해 클라이언트 개발을 중점적으로 하고 있습니다.
   
