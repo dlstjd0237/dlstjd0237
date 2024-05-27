@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!&fontSize=90" />
  
 # About dlstjd0237
-* 경기게임마이스터고등학교에 재학중인 동아리 '탈주닌자'의 기장
+* 경기게임마이스터고등학교에 재학중인 동아리 현'탈주닌자'동아리 의 기장
 * 2학년 국가권력급 개발자 지망생 
 * Unity엔진을 활용해 게임개발
 # 기술 스택
