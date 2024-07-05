@@ -11,7 +11,7 @@
 * Rust (하)
 * python (하)
 * C# (중)
-* Unity (중)
+* Unity (중상)
   
 # Unity
 * 개발한 게임의 7할 정도가 PC 플랫폼임.
