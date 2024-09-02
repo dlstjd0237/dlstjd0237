@@ -25,8 +25,6 @@
   * 가장 최근의 본 책은 [최대 성능을 위한 유니티 5 게임 프로그래밍 최적화] 이다.
 
 #     
-### 저의 백준 티어입니다.
-### 저는 실버입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstjd0237)](https://solved.ac/dlstjd0237/)
 
