@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=INSEONG%20BAEK&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Game%20Programmer&descAlignY=62" />
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="220" alt="cat typing" />
-
 **게임 회사에서 게임과 게임 만드는 도구를 함께 만듭니다.** 🐱
 
 게임 클라이언트 코드부터 QA 자동화, 사내 툴, 개인 데스크톱 유틸까지<br/>
