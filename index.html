@@ -65,7 +65,7 @@ img{display:block;max-width:100%}
 
 .cover-body{flex:1;display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,.9fr);gap:clamp(24px,4vw,64px);align-items:center;max-width:var(--max);width:100%;margin:0 auto;padding:clamp(12px,3vh,40px) var(--gutter) clamp(28px,5vh,56px);position:relative;z-index:2}
 .title-lockup .han{font-family:var(--han);font-size:clamp(20px,2.4vw,28px);color:var(--sun);letter-spacing:.02em}
-.title-lockup h1{font-family:var(--display);font-stretch:125%;font-weight:900;text-transform:uppercase;line-height:.84;letter-spacing:-.02em;font-size:clamp(56px,10.5vw,148px);margin:.18em 0 .22em}
+.title-lockup h1{font-family:var(--display);font-stretch:125%;font-weight:900;text-transform:uppercase;line-height:.84;letter-spacing:-.02em;font-size:clamp(48px,6.3vw,100px);margin:.18em 0 .22em}
 .title-lockup h1 span{display:block}
 .title-lockup h1 .outline{color:transparent;-webkit-text-stroke:2px #fff}
 .title-lockup .class{display:inline-flex;align-items:center;gap:12px;background:var(--sun);color:var(--cobalt-ink);font-family:var(--display);font-stretch:115%;font-weight:800;text-transform:uppercase;font-size:clamp(14px,1.4vw,17px);letter-spacing:.04em;padding:9px 16px 9px 12px;border-radius:6px;transform:rotate(-1.5deg)}
@@ -87,8 +87,9 @@ img{display:block;max-width:100%}
 .boxart .frame img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;background:var(--page-2)}
 .boxart .label{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:12px 2px 14px;color:var(--ink);font-family:var(--display);font-stretch:110%;font-weight:800;text-transform:uppercase;font-size:13px;letter-spacing:.04em}
 .boxart .label .p1{background:var(--cobalt);color:#fff;border-radius:4px;padding:3px 8px}
-.boxart .sticker{position:absolute;top:-22px;left:-26px;width:104px;height:104px;border-radius:50%;background:var(--sun);color:var(--cobalt-ink);display:grid;place-items:center;text-align:center;font-family:var(--han);font-size:15px;line-height:1.15;transform:rotate(-12deg);box-shadow:0 10px 20px -8px rgba(5,12,50,.6)}
-.boxart .sticker small{display:block;font-family:var(--display);font-stretch:110%;font-weight:800;font-size:11px;letter-spacing:.06em}
+.boxart .sticker{position:absolute;top:-22px;left:-26px;width:104px;height:104px;border-radius:50%;background:var(--sun);color:var(--cobalt-ink);display:grid;place-items:center;text-align:center;font-family:var(--han);font-size:16px;line-height:1.2;transform:rotate(-12deg);box-shadow:0 10px 20px -8px rgba(5,12,50,.6)}
+.boxart .sticker span{display:block}
+.boxart .sticker b{display:block;font-weight:400;font-size:22px;color:var(--red)}
 
 .spine{position:relative;z-index:2;background:var(--cobalt-ink);color:#c9d3ff;font-family:var(--display);font-stretch:112%;font-weight:700;font-size:12.5px;letter-spacing:.08em;text-transform:uppercase}
 .spine .wrap{display:flex;flex-wrap:wrap;gap:6px 28px;padding-top:13px;padding-bottom:13px;align-items:center}
@@ -195,14 +196,15 @@ img{display:block;max-width:100%}
 .back h2{font-family:var(--han);font-weight:400;font-size:clamp(36px,5vw,60px);line-height:1.12;color:#fff}
 .back h2 span{color:var(--sun)}
 .back p{margin-top:16px;max-width:30em}
-.cat{font-family:ui-monospace,Consolas,monospace;font-size:15px;line-height:1.4;color:var(--sun);background:rgba(255,255,255,.06);border:1.5px solid rgba(255,255,255,.18);border-radius:12px;padding:18px 22px;white-space:pre;overflow-x:auto;justify-self:end}
+.cat{font-family:ui-monospace,Consolas,monospace;font-size:15px;line-height:1.4;color:var(--sun);background:rgba(255,255,255,.06);border:1.5px solid rgba(255,255,255,.18);border-radius:12px;padding:18px 22px;white-space:pre;overflow-x:auto;max-width:100%;justify-self:end}
 .cat span{color:#c9d3ff}
 .legal{margin-top:72px;padding-top:20px;border-top:1px solid rgba(255,255,255,.15);display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;font-size:13px;color:#93a0d6}
 
 /* ---------- RESPONSIVE ---------- */
 @media (max-width:980px){
   .cover-body{grid-template-columns:1fr}
-  .boxart{width:min(78%,340px);order:-1;margin-top:18px}
+  .boxart{width:min(70%,320px);margin:28px auto 0}
+  .title-lockup h1{font-size:clamp(48px,13.5vw,120px)}
   .profile,.controls,.back-grid{grid-template-columns:1fr}
   .cat{justify-self:start}
   .item{grid-template-columns:44px minmax(0,1fr) auto;row-gap:4px}
@@ -213,6 +215,7 @@ img{display:block;max-width:100%}
   body{font-size:16px}
   .cover-top nav a:not(.keep){display:none}
   .boxart .sticker{width:84px;height:84px;font-size:13px;left:-14px;top:-16px}
+  .boxart .sticker b{font-size:18px}
   .trophies,.records{grid-template-columns:1fr}
   .gear-row{grid-template-columns:1fr;gap:8px}
   .item{padding:14px 14px;gap:12px}
@@ -257,7 +260,7 @@ img{display:block;max-width:100%}
         <img src="https://avatars.githubusercontent.com/u/123615243?v=4" alt="백인성 프로필 사진" width="460" height="460">
         <div class="label"><span>Inseong Baek</span><span class="p1">1 Player</span></div>
       </div>
-      <div class="sticker" aria-label="앱잼 최우수상 2회">앱잼<br>최우수상<small>× 2</small></div>
+      <div class="sticker" aria-label="앱잼 최우수상 2회"><span>앱잼<br>최우수상<b>2회</b></span></div>
     </div>
   </div>
 
@@ -312,7 +315,7 @@ img{display:block;max-width:100%}
     <div class="wrap">
       <div class="page-head">
         <h2 id="h-controls">조작 방법<span class="en">Controls</span></h2>
-        <p>버튼마다 요즘 관심 있는 일을 하나씩 배정했습니다. 목록이나 버튼에 마우스를 올려 보세요.</p>
+        <p>버튼마다 요즘 관심 있는 일을 하나씩 배정했습니다. 목록이나 버튼을 가리키거나 눌러 보세요.</p>
       </div>
       <div class="controls">
         <div class="pad-wrap">
@@ -477,6 +480,7 @@ img{display:block;max-width:100%}
   moves.forEach(function(m){
     m.addEventListener('mouseenter',function(){light(m.dataset.k)});
     m.addEventListener('focus',function(){light(m.dataset.k)});
+    m.addEventListener('click',function(){light(m.dataset.k)});
   });
   shapes.forEach(function(s){
     s.addEventListener('mouseenter',function(){light(s.dataset.k)});
