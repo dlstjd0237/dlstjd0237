@@ -1,0 +1,85 @@
+/* Outfit has no Hangul, so Korean falls through to Pretendard. */
+:root {
+  --font-family-body: Outfit, Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-family-heading: Outfit, Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-background-body);
+}
+
+.page {
+  max-width: 1040px;
+  margin-inline: auto;
+  padding-inline: 16px;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--color-background-body);
+  border-bottom: 1px solid var(--color-border, rgba(0, 0, 0, 0.08));
+}
+
+.nav {
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.nav > * {
+  flex-shrink: 0;
+}
+
+.sign {
+  font-family: Sarina, cursive;
+}
+
+.hero-name {
+  font-family: Sarina, cursive;
+  font-size: clamp(40px, 9vw, 76px);
+  line-height: 1.1;
+}
+
+.mono {
+  font-family: 'JetBrains Mono', monospace;
+  letter-spacing: 0.08em;
+}
+
+section[id] {
+  scroll-margin-top: 72px;
+}
+
+.lang-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-inline-end: 6px;
+  vertical-align: middle;
+}
+
+.stat-img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+
+/* ghchart has no dark variant, so it always sits on a light panel. */
+.chart-panel {
+  display: block;
+  padding: 16px;
+  border-radius: 12px;
+  background: #fffdf0;
+  border: 1px solid var(--color-border);
+}
+
+.chart-panel img {
+  width: 100%;
+}
